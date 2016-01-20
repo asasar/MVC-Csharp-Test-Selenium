@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="TFS-CI-WEB-Razor" />
+  <setParameter name="DefaultConnection-Web.config Connection String" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-TFS-CI-WEB-Razor-20160115033325.mdf;Initial Catalog=aspnet-TFS-CI-WEB-Razor-20160115033325;Integrated Security=True" />
+</parameters>
